@@ -1,4 +1,3 @@
-@@ -1,146 +0,0 @@
 <div class="cell auto-size padding10 bg-white" id="cell-content">
     <h1 class="text-light">Student Portal</h1>
     <div class="cell auto-size padding20 bg-white" id="cell-content">  
