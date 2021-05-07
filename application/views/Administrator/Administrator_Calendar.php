@@ -1,4 +1,5 @@
--<div class="cell auto-size padding20 bg-white" id="cell-content">
+
+<div class="cell auto-size padding20 bg-white" id="cell-content">
     <h1 class="text-light">Manage Calendar <span class="mif-calendar place-right"></span></h1>
     <hr class="thin bg-grayLighter">
     <div class="container box padding10 bg-white">
