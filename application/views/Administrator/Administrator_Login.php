@@ -2,7 +2,7 @@
 <body class="bg-darkTeal">
     <div class="login-form padding20 block-shadow">
         <form data-role="validator" method="POST" action="<?= base_url(); ?>Login/verify_login" autocomplete="off">
-            <h1 class="text-light">Login to <span class="fg-cyan"><i>service</i></span></h1>
+            <h1 class="text-light">Login to s<span class="fg-cyan"><i>service</i></span></h1>
             <hr class="thin"/>
 
             <br /> 
